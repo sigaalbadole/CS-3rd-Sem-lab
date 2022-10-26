@@ -1,3 +1,4 @@
-# CS-3rd-Sem-lab
+## CS-3rd-Sem-lab
 Lab files for the semester.
-## Also learned Git
+# Also learned Git
+Sorting Algorithms:
